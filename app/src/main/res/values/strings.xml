@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Makanan Bulking</string>
+    <string name="food_name">Food Name</string>
+    <string name="detail">Detail</string>
+    <string name="food_detail">food_detail</string>
+    <string name="account">Account</string>
+</resources>
