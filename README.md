@@ -49,12 +49,15 @@ cd makanan-bulking
 ## 📸 Screenshots
 
 - Food catalog page with a wide selection of bulking foods
+  
 ![Halaman Utama](https://github.com/user-attachments/assets/84ddd794-4719-4fc7-80d5-69e8117e426c)
   
 - Food detail page with nutrition information
+  
 ![Detail](https://github.com/user-attachments/assets/3605153e-7a52-4c87-969e-3120da1537cb)
 
 - About page with developer profile
+  
 ![about](https://github.com/user-attachments/assets/2b769382-9589-4344-9148-62f84575acb7)
 
 ## 📑 Project Structure
