@@ -1,8 +1,4 @@
 # Bulking Food App
-![Halaman Utama](https://github.com/user-attachments/assets/84ddd794-4719-4fc7-80d5-69e8117e426c)
-![Detail](https://github.com/user-attachments/assets/3605153e-7a52-4c87-969e-3120da1537cb)
-![about](https://github.com/user-attachments/assets/2b769382-9589-4344-9148-62f84575acb7)
-
 > A mobile application to help users find information about foods that support bulking programs with an informative and easy-to-use display.
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -51,9 +47,15 @@ cd makanan-bulking
 - Material Design - User interface design
 
 ## 📸 Screenshots
-- About page with developer profile
-- Food detail page with nutrition information
+
 - Food catalog page with a wide selection of bulking foods
+![Halaman Utama](https://github.com/user-attachments/assets/84ddd794-4719-4fc7-80d5-69e8117e426c)
+  
+- Food detail page with nutrition information
+![Detail](https://github.com/user-attachments/assets/3605153e-7a52-4c87-969e-3120da1537cb)
+
+- About page with developer profile
+![about](https://github.com/user-attachments/assets/2b769382-9589-4344-9148-62f84575acb7)
 
 ## 📑 Project Structure
 ```
