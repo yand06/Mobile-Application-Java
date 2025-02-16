@@ -86,11 +86,3 @@ Contributions are always welcome. Contribution steps:
 3. Commit your changes (`git commit -m 'Added new feature'`)
 4. Push to the branch (`git push origin fitur/FiturBaru`)
 5. Open Pull Request
-
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Contact
-Supriyandi La Awe - supriyandilaawe@gmail.com
-
-Project Link: [https://github.com/supriyandilaawe/makanan-bulking](https://github.com/supriyandilaawe/makanan-bulking)
