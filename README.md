@@ -60,25 +60,6 @@ cd makanan-bulking
   
 ![about](https://github.com/user-attachments/assets/2b769382-9589-4344-9148-62f84575acb7)
 
-## 📑 Project Structure
-```
-makanan-bulking/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   ├── activities/
-│   │   │   │   ├── adapters/
-│   │   │   │   ├── models/
-│   │   │   │   └── utils/
-│   │   │   └── res/
-│   │   │       ├── layout/
-│   │   │       ├── values/
-│   │   │       └── drawable/
-│   └── build.gradle
-└── build.gradle
-```
-
 ## 🤝 Contributions
 Contributions are always welcome. Contribution steps:
 1. Fork this project
